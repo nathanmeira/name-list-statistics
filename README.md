@@ -1,7 +1,7 @@
 # Name List Statistics
 
 Find out the number of masculine and feminine names in a list.
-> The code checks the input list against separate lists for guy and girl names, and tells you how many of each there are.
+> The logic compares the input list against separate lists for masculine and feminine names, producing a count of the occurrences in each category.
 
 ### Roadmap
 
